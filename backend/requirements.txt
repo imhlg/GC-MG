@@ -1,0 +1,6 @@
+Flask
+psycopg2
+Flask-CORS
+Flask-SQLAlchemy
+Flask-RESTful
+Flask-SocketIO
